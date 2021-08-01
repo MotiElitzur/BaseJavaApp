@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base Java App</string>
+
+    <string name="users_loading_message">No users yet</string>
+</resources>
